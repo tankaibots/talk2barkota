@@ -1,0 +1,6 @@
+{
+  "name": "talk2barkota",
+  "description": "Webhook for barkota",
+  "repository": "https://github.com/tankaibots/talk2barkota.git",
+  "keywords": ["api.ai", "natural language"]
+}
